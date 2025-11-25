@@ -8,7 +8,7 @@ Designed for seamless integration with existing mods, it provides players and mo
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-grey?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-grey?style=for-the-badge)](https://lethal-expansion.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install **BepInEx** (required for Lethal Company mods).  
